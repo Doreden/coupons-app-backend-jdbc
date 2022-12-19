@@ -1,0 +1,46 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¤Ş‚”
+
+java:S1192„"hDefine a constant instead of duplicating this literal "select * from companies where email = ?" 3 times.(›Õİ™
+e
+java:S2095¬"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095""OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å×áÔ
+d
+java:S2095;"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095¿"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+d
+java:S2095O"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+d
+java:S2095r"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095‡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095›"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095Ï"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+d
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+t
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+\
+java:S1858#"A"getName" returns a string, there's no need to call "toString()".(³˜ıüÿÿÿÿ
+t
+java:S2142A"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+t
+java:S2142U"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+t
+java:S2142e"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+t
+java:S2142z"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142²"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142Ã"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142Ó"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾

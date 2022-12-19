@@ -1,0 +1,113 @@
+
+z
+java:S1192"^Define a constant instead of duplicating this literal "Error have been occurred : 
+" 13 times.(÷ëÜØøÿÿÿÿ
+|
+java:S1192"`Define a constant instead of duplicating this literal "please enter your company id : " 3 times.(İ›ÿøÿÿÿÿ
+j
+java:S1104e"TMake instance a static final constant or non-public and provide accessors if needed.(à ÆÅ
+D
+java:S1444e".Make this "public static instance" field final(à ÆÅ
+j
+java:S1450"URemove the "thread" field and declare it as a local variable in the relevant methods.(â£Ÿ4
+V	java:S125%"<This block of commented-out lines of code should be removed.(ÿô«–øÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+J
+java:S1659N"/Declare "userLoginPassword" on a separate line.(ƒõ—‹ÿÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(«ñ‰¢
+L
+java:S2696P"6Make the enclosing method "static" or remove this set.(¬ûæ·
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(‡Áé…
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(üêÆáüÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ŸËÊ°
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(Í•½–ıÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(£ÌßÔÿÿÿÿÿ
+O
+java:S1611y"9Remove the parentheses around the "mockCompany" parameter(²Øú
+T	java:S106"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+V
+java:S1611‹":Remove the parentheses around the "mockCustomer" parameter(–’Óäüÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İ„Ü
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(Œû‰Á
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+J
+java:S1481¶".Remove this unused "companyId" local variable.(ÿÚ³àşÿÿÿÿ
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+F
+java:S1481Ç"/Remove this unused "customerId" local variable.(‚šß
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(™»“ğıÿÿÿÿ
+g	java:S128Ó"LEnd this switch case with an unconditional break, return or throw statement.(Ôª²çüÿÿÿÿ
+=	java:S131õ""Add a default case to this switch.(ÍÖéëşÿÿÿÿ
+N	java:S106‚"9Replace this use of System.out or System.err by a logger.(åÅ«J
+N	java:S106"9Replace this use of System.out or System.err by a logger.(åÅ«J
+O	java:S106"9Replace this use of System.out or System.err by a logger.(•İËÍ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(•İËÍ
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(Ü¨Áıÿÿÿÿ
+T	java:S106É"9Replace this use of System.out or System.err by a logger.(Õ‹µ°üÿÿÿÿ
+T	java:S106Ø"9Replace this use of System.out or System.err by a logger.(úÌ÷æûÿÿÿÿ
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(û »´ûÿÿÿÿ
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.( èê¿
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(÷ÕÔÙùÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(Ü‹‰şÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(¨“¼š
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(û »´ûÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(ğÃ“Ò
+T	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ˆã–°şÿÿÿÿ
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(ïÆĞøÿÿÿÿ
+O	java:S106í"9Replace this use of System.out or System.err by a logger.(Ï§…Ü
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(õÊ‚úÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(Ã˜„ö
+=	java:S131“""Add a default case to this switch.(ÍÖéëşÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(ˆÁ— ùÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(û²ƒ´
+T	java:S106"9Replace this use of System.out or System.err by a logger.(İ›ÿøÿÿÿÿ
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(õÛ³ç
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(î»Òõúÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(İ›ÿøÿÿÿÿ
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(¶´‡º
+O	java:S106¶"9Replace this use of System.out or System.err by a logger.(­úËß
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(İ›ÿøÿÿÿÿ
+T	java:S106½"9Replace this use of System.out or System.err by a logger.(˜á”Ûıÿÿÿÿ
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(â¹¸ğ
+=	java:S131Ö""Add a default case to this switch.(ÍÖéëşÿÿÿÿ
+N	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ñéŸ=
+O	java:S106Û"9Replace this use of System.out or System.err by a logger.(÷·Òà
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(†Öûúÿÿÿÿ
+N	java:S106ß"9Replace this use of System.out or System.err by a logger.(ãÑÅx
+O	java:S106á"9Replace this use of System.out or System.err by a logger.(Ş¨µµ
+O	java:S106ã"9Replace this use of System.out or System.err by a logger.(ƒß
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(ı†ªÿÿÿÿÿ
+N	java:S106ç"9Replace this use of System.out or System.err by a logger.(—‘«c
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(†İûÿ
+T	java:S106ó"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+T	java:S106ù"9Replace this use of System.out or System.err by a logger.(¢‡Üîÿÿÿÿÿ
+h
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³¼ç
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ŞÈŒ¶øÿÿÿÿ
+8	java:S131•""Add a default case to this switch.(Øß¼†
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(¢Â¯Îıÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(®œÎÕüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(Ô¬Äñ
+8	java:S131°""Add a default case to this switch.(Øß¼†
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ä¨”ûÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(©ó‘™üÿÿÿÿ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+N	java:S106¾"9Replace this use of System.out or System.err by a logger.(Æ‹
+O	java:S106À"9Replace this use of System.out or System.err by a logger.(õÛ³ç
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(µÙÇÎùÿÿÿÿ
+T	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+N	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Æ‹
+N	java:S106Ø"9Replace this use of System.out or System.err by a logger.(Şã¬,
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(ÇÓ¿ìùÿÿÿÿ
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+T	java:S106é"9Replace this use of System.out or System.err by a logger.(ŠÎ˜îúÿÿÿÿ
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+O	java:S106ô"9Replace this use of System.out or System.err by a logger.(ì—©„
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(÷ëÜØøÿÿÿÿ
+B
+java:S1144$",Remove this unused private "cleanUp" method.(¨ü§‰

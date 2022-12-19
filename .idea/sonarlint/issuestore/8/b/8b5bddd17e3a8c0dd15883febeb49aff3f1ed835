@@ -1,0 +1,16 @@
+
+‹
+java:S13196"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©ƒ®Ğúÿÿÿÿ
+‹
+java:S1319:"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–øÇşÿÿÿÿ
+†
+java:S1319>"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(±¨Æ
+o
+java:S1104"TMake instance a static final constant or non-public and provide accessors if needed.(…­Æøÿÿÿÿ
+I
+java:S1444".Make this "public static instance" field final(…­Æøÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(¯éÂç
+<
+java:S1170"!Make this final field static too.(§ÅåÑüÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÆØÕ©

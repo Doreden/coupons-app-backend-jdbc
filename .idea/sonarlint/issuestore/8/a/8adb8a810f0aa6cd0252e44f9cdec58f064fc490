@@ -1,0 +1,22 @@
+
+‹
+java:S13198"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ıÏÅ°şÿÿÿÿ
+†
+java:S1319P"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ıØÖ´
+j
+java:S1104"TMake instance a static final constant or non-public and provide accessors if needed.(û¢¢£
+D
+java:S1444".Make this "public static instance" field final(û¢¢£
+<
+java:S1170"!Make this final field static too.(§ÅåÑüÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(êı‘•
+7
+java:S1170"!Make this final field static too.(¯éÂç
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(úü¼Ì
+±
+java:S1130*"•Remove the declaration of thrown exception 'com.dor.couponssystem.exceptions.EmailAlreadyExistsException', as it cannot be thrown from method's body.(áØøÿÿÿÿ
+¬
+java:S1130G"•Remove the declaration of thrown exception 'com.dor.couponssystem.exceptions.EmailAlreadyExistsException', as it cannot be thrown from method's body.(í¯Ñ
+C
+java:S1068"-Remove this unused "couponDAO" private field.(¯éÂç

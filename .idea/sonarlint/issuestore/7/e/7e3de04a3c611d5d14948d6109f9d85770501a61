@@ -1,0 +1,81 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(šğ¯øÿÿÿÿ
+‡
+java:S1319­"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(®†ãò
+‡
+java:S1319Ä"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(…ñ‡Å
+‡
+java:S1319Ú"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ã¼¥Š
+‡
+java:S1319£"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÈÜ”©
+‡
+java:S1319¸"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Œµæœ
+‡
+java:S1319Í"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¤Äî
+_
+java:S2259™"HA "NullPointerException" could be thrown; "connection" is nullable here.(Õ÷êä
+e
+java:S2095…"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+f
+java:S2095É"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ØøËæ
+e
+java:S2095ß"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095˜"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095¨"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+d
+java:S2095C"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å×áÔ
+e
+java:S2095Ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095è"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+d
+java:S2095s"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+e
+java:S2095½"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+f
+java:S2095³"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(»‰ØÉ
+e
+java:S2095÷"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+f
+java:S2095Š"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å×áÔ
+d
+java:S2095X"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óĞ¦
+t
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+t
+java:S2142I"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+t
+java:S2142c"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(üŠ÷÷ÿÿÿÿÿ
+N
+java:S1481p"3Remove this unused "couponToDelete" local variable.(‰ôÈËıÿÿÿÿ
+t
+java:S2142v"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(à¶ş
+u
+java:S2142Œ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142¼"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÿ“¿Å
+W	java:S125²"<This block of commented-out lines of code should be removed.(¹¿ù”øÿÿÿÿ
+u
+java:S2142Ò"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142è"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142û"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142°"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142Æ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142Û"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+u
+java:S2142ê"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
